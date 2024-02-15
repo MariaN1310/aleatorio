@@ -1,9 +1,6 @@
 # Proyecto Aleatorio
 
-Este es un simple proyecto donde creo y pruebo 2 formas diferentes de elegir un valor de forma aleatoria, con PHP o JS.
-
-En un principio se va a poder elegir como se diferencian los diferentes valores a "elegir". Luego la idea es que reconozca automaticamente la separación entre valores.
-
-Esto en un futuro formara parte de un proyecto más grande.
+Este es un simple proyecto donde cree un sistema para elegir entre 1 y 5 valores de forma aleatoria de una lista.
+Se puede elegir la cantidad y tambien se tiene que elegir la forma de separación entre los valores (espacio, coma y/o enters).
 
 
